@@ -1,0 +1,2 @@
+include ':app', ':librays'
+rootProject.name='AppDemo01'
